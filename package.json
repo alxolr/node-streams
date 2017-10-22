@@ -11,10 +11,12 @@
   "dependencies": {
     "chance": "^1.0.11",
     "from2-array": "^0.0.4",
+    "fstream": "^1.0.11",
     "mkdirp": "^0.5.1",
     "multipipe": "^1.0.2",
     "request": "^2.83.0",
     "split": "^1.0.1",
+    "tar": "^4.0.2",
     "through2": "^2.0.3"
   }
 }
